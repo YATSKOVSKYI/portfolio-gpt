@@ -18,3 +18,9 @@ class NavState(rx.State):
 
     def to_chat(self):
         return rx.redirect(routes.CHAT_ROUTE)
+    
+    def to_publications(self):
+        return rx.redirect(routes.PUBLICATIONS_ROUTE)
+    
+    def to_projects(self):
+        return rx.redirect(routes.PROJECTS_ROUTE)
