@@ -1,0 +1,5 @@
+HOME_ROUTE="/"
+ABOUTE_US_ROUTE="/about"
+PUBLICATIONS_ROUTE="/publications"
+PROJECTS_ROUTE="/projects"
+CHAT_ROUTE="/chat"
