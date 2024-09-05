@@ -1,1 +1,4 @@
-reflex==0.5.10
+reflex==0.5.9
+python-decouple
+openai
+psycopg2-binary
